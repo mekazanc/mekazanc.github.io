@@ -23,7 +23,7 @@ repository               : "mekazanc/mekazanc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mehmet.jpeg"
+  avatar           : "mehmet_.jpeg"
   name             : "Mehmet Emin Kazanç"
   pronouns         : # example: "she/her"  
   bio              : "Senior Data Scientist"
