@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a data science and AI professional with an academic background and currently working as a senior data sciencist in Adjust, Germany. 
+I am a data science and AI professional with an academic background and currently working as a senior data scientist in Adjust, Germany. 
