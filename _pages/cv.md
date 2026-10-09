@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Advanced M.S. in Artificial Intelligence, KU Leuven, 2020 
+* M.S. in Electrical-Electronics Engineering, Bogazici University, 2018
+* B.S. in Electronics Engineering, Kadir Has University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2022 : Present 
+  * Adjust, Germany
+  * Senior Data Scientist
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2021 : Dec 2021 
+  * Afiniti, Turkey/US
+  * Data Analyst
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2017 : Jun 2021
+  * Vodafone, Turkey
+  * Data Scientist
+  * Educational Leave (2019-2020)
   
-Skills
+<!-- Bu satır sayfada görünmez 
+
+-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -62,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
