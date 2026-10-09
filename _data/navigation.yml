@@ -21,13 +21,12 @@ main:
   - title: "Drawings"
     url: /drawings/
 
-  - title: "Talks"
-    url: /talks/
-
+  - title: "Thoughts"
+    url: /thoughts/
 
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
