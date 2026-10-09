@@ -18,7 +18,11 @@ Bu yıl okuduğum kitaplar
 
 {% for book in site.data.books %}
 <div class="book">
+  {% if book.cover %}
   <img src="{{ book.cover | relative_url }}" alt="{{ book.title }}">
+  {% else %}
+  <div class="book-placeholder">📖</div>
+  {% endif %}
   <div>
     <h3>{{ book.title }}</h3>
     <div class="meta">{{ book.author }} · {{ book.finished }}</div>
