@@ -28,6 +28,9 @@ Books I read this year📚
     <h3>{{ book.title }}</h3>
     <div class="meta">{{ book.author }} · {{ book.finished }}</div>
     {{ book.summary | markdownify }}
+    {% if book.quote %}
+    <blockquote>“{{ book.quote | strip }}”</blockquote>
+    {% endif %}
   </div>
 </div>
 {% endfor %}
