@@ -14,7 +14,8 @@ author_profile: true
 @media (max-width: 600px) { .book { flex-direction: column; } }
 </style>
 
-Bu yıl okuduğum kitaplar.
+Bu yıl okuduğum kitaplar📚
+Books I read this year📚
 
 {% for book in site.data.books %}
 <div class="book">
