@@ -2,25 +2,22 @@
   country: "Spain"
   date: "September 2025"
   summary: >
-    Şehirle ilgili kısa genel izleniminiz. Bu alan isteğe bağlı, silebilirsiniz.
+    You can reach my observations about this city. 
   pros:
-    - "İyi yön 1"
-    - "İyi yön 2"
-    - "İyi yön 3"
+    - "coming"
   cons:
-    - "Kötü yön 1"
-    - "Kötü yön 2"
-  photos:
-    - /images/travel/sehir1-1.jpeg
-    - /images/travel/sehir1-2.jpeg
-    - /images/travel/sehir1-3.jpeg
+    - "coming"
+  #photos:
+  #  - /images/travel/sehir1-1.jpeg
+  #  - /images/travel/sehir1-2.jpeg
+  #  - /images/travel/sehir1-3.jpeg
 
-- city: "İkinci Şehir"
-  country: "Ülke"
-  date: "Haziran 2026"
+- city: "Amsterdam"
+  country: "Netherlands"
+  date: "April 2025"
   pros:
     - "..."
   cons:
     - "..."
-  photos:
-    - /images/travel/sehir2-1.jpeg
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
