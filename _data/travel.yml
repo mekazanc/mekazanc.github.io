@@ -62,6 +62,8 @@
 - city: "Oslo 🇳🇴"
   country: "Norway"
   date: "October 2025"
+  summary: >
+    After a week-long experience that was brief but intense, I can describe Oslo as a city I really like.
   pros:
     - "The country's rich natural resources like natural gas and oil, a population of only around 6 million, and a strong welfare state raise the standard of living considerably. You feel this right away in daily life: the orderliness of the metro and buses and the quality of their seats, how clean and safe the city is, and the digitalized public services (many things can easily be done on your phone)."
     - "The trains and buses are very spacious."
@@ -97,12 +99,26 @@
 - city: "Madrid 🇪🇸"
   country: "Spain"
   date: "September 2025"
-  #summary: >
-  #  You can reach my observations about this city. 
+  summary: >
+    All in all, Madrid (Real Madrid aside) turned out to be a clearly overrated city.
   pros:
-    - "coming"
+    - "Watching a match at Santiago Bernabéu was a legendary experience."
+    - "Families (mom, dad and kids) coming to the match in their jerseys is a really lovely tradition."
+    - "Being able to get a coffee for €1.90 (even if the quality is low) is a big plus."
+    - "The people have so much energy. Even heading home at 11 p.m., they're still chatting excitedly."
+    - "In September, the days still feel like summer and the nights get cool."
   cons:
-    - "coming"
+    - "Very few people speak English. For example, the information desk employee at the central Sol station didn't understand my question 'Are there luggage lockers?' In the end, I had to sort it out with the Bouncer app."
+    - "People talk very loudly. As someone used to calm and quiet, the noise on trains, in cafés and on the streets pushed the limits of my patience."
+    - "I was surprised when the bus driver stopped mid-route to chat with another driver."
+    - "The transport system is inefficient. You constantly have to go down and up 2 or 3 levels underground, and it's nearly impossible to get anywhere without a transfer."
+    - "There's no direct metro from the airport to the city center."
+    - "Signage is inadequate."
+    - "Our hotel was far out. When we got to the stop where we had to transfer from the metro, the bus had left 8 minutes early, so we had to wait 48 minutes. Come on, who's ever heard of a bus leaving 8 minutes early?! We were miserable in the cold of the night."
+    - "On the last day we went to Retiro Park and then headed to the airport. But when transferring to the bus at Avenida de América, we found out the buses leave from level -2. I had to get out of the metro and go looking for the bus stop. For the first time in my life, I saw a station with the metro on level -3 and the buses on level -2."
+    - "The cuisine is weak. I tried the famous calamari sandwich, but there was nothing special about it."
+    - "When they say 'traditional Spanish cuisine', what you get is potato omelette and bread."
+    - "Compared to Italy, they clearly fall short when it comes to food."
   #photos:
   #  - /images/travel/sehir1-1.jpeg
   #  - /images/travel/sehir1-2.jpeg
