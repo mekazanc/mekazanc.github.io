@@ -1,4 +1,4 @@
-- city: "Budapest"
+- city: "Budapest 🇭🇺"
   country: "Hungary"
   date: "August 2026"
   pros:
@@ -8,7 +8,7 @@
   #photos:
   #  - /images/travel/sehir2-1.jpeg
 
-- city: "Vilnius"
+- city: "Vilnius 	🇱🇹"
   country: "Lithuanian"
   date: "August 2026"
   pros:
@@ -18,7 +18,7 @@
   #photos:
   #  - /images/travel/sehir2-1.jpeg
 
-- city: "Riga"
+- city: "Riga 🇱🇻"
   country: "Letonia"
   date: "August 2026"
   pros:
@@ -28,7 +28,7 @@
   #photos:
   #  - /images/travel/sehir2-1.jpeg
 
-- city: "Tallinn"
+- city: "Tallinn 🇪🇪"
   country: "Estonia"
   date: "July 2026"
   pros:
@@ -38,7 +38,7 @@
   #photos:
   #  - /images/travel/sehir2-1.jpeg
 
-- city: "Dublin"
+- city: "Dublin 🇮🇪"
   country: "Ireland"
   date: "May 2026"
   pros:
@@ -48,7 +48,7 @@
   #photos:
   #  - /images/travel/sehir2-1.jpeg
 
-- city: "Limerick"
+- city: "Limerick 🇮🇪"
   country: "Ireland"
   date: "May 2026"
   pros:
@@ -59,7 +59,7 @@
   #  - /images/travel/sehir2-1.jpeg
 
 
-- city: "Oslo"
+- city: "Oslo 🇳🇴"
   country: "Norway"
   date: "October 2025"
   pros:
@@ -70,7 +70,7 @@
   #  - /images/travel/sehir2-1.jpeg
 
 
-- city: "Madrid"
+- city: "Madrid 🇪🇸"
   country: "Spain"
   date: "September 2025"
   #summary: >
@@ -84,7 +84,7 @@
   #  - /images/travel/sehir1-2.jpeg
   #  - /images/travel/sehir1-3.jpeg
 
-- city: "Amsterdam"
+- city: "Amsterdam 🇳🇱"
   country: "Netherlands"
   date: "April 2025"
   pros:
