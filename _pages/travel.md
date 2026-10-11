@@ -18,8 +18,8 @@ author_profile: true
 @media (max-width: 600px) { .proscons { grid-template-columns: 1fr; } }
 </style>
 
-Gezdiğim şehirler ve notlarım ✈️<br>
-Cities I have visited ✈️
+In progress!!!<br>
+I decided to keep notes about cities I visited from the last year. You can reach quick information about both positive/negative points ✈️<br>
 
 {% for place in site.data.travel %}
 <div class="city">
@@ -29,13 +29,13 @@ Cities I have visited ✈️
   <div class="proscons">
     {% if place.pros %}
     <div>
-      <h4>👍 İyi yönleri</h4>
+      <h4>👍 Good Points</h4>
       <ul>{% for item in place.pros %}<li>{{ item }}</li>{% endfor %}</ul>
     </div>
     {% endif %}
     {% if place.cons %}
     <div>
-      <h4>👎 Kötü yönleri</h4>
+      <h4>👎 Bad Points</h4>
       <ul>{% for item in place.cons %}<li>{{ item }}</li>{% endfor %}</ul>
     </div>
     {% endif %}

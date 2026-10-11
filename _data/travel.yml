@@ -1,8 +1,80 @@
+- city: "Budapest"
+  country: "Hungary"
+  date: "August 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+- city: "Vilnius"
+  country: "Lithuanian"
+  date: "August 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+- city: "Riga"
+  country: "Letonia"
+  date: "August 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+- city: "Tallinn"
+  country: "Estonia"
+  date: "July 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+- city: "Dublin"
+  country: "Ireland"
+  date: "May 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+- city: "Limerick"
+  country: "Ireland"
+  date: "May 2026"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+
+- city: "Oslo"
+  country: "Norway"
+  date: "October 2025"
+  pros:
+    - "..."
+  cons:
+    - "..."
+  #photos:
+  #  - /images/travel/sehir2-1.jpeg
+
+
 - city: "Madrid"
   country: "Spain"
   date: "September 2025"
-  summary: >
-    You can reach my observations about this city. 
+  #summary: >
+  #  You can reach my observations about this city. 
   pros:
     - "coming"
   cons:
@@ -21,3 +93,7 @@
     - "..."
   #photos:
   #  - /images/travel/sehir2-1.jpeg
+
+
+
+
