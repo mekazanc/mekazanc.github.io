@@ -19,7 +19,8 @@ author_profile: true
 </style>
 
 In progress!!!<br>
-I decided to keep notes about cities I visited from the last year. You can reach quick information about both positive/negative points ✈️<br>
+I decided to keep notes about cities I visited from the last year. <br>
+You can reach quick information about both positive/negative points. ✈️<br>
 
 {% for place in site.data.travel %}
 <div class="city">
