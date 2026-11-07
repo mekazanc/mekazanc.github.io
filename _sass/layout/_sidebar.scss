@@ -322,3 +322,30 @@
     }
   }
 }
+/*
+   Dithered avatar: pixelated two-tone image until hover / focus / tap
+   ========================================================================== */
+
+.dither-avatar {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+
+  .dither-avatar__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    image-rendering: pixelated;
+    transition: opacity 0.35s ease;
+  }
+
+  &:hover .dither-avatar__overlay,
+  &:focus-visible .dither-avatar__overlay,
+  &:active .dither-avatar__overlay {
+    opacity: 0;
+  }
+}
